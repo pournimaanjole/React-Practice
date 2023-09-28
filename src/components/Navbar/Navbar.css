@@ -1,0 +1,22 @@
+.navbar{
+    height: 5rem;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   margin-top: 1.5rem;
+}
+.navbar a{
+text-decoration: none;
+font-size: 1.5rem;
+color: black;
+
+}
+.navbar li{
+    list-style: none;
+}
